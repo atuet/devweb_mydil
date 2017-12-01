@@ -1,0 +1,194 @@
+video {
+  position: fixed;
+  justify-content: center;
+  z-index: -1;
+  width: 101%;
+  opacity: 0.9;
+}
+
+#titre {
+  margin-left: -10px;
+  margin-right: -8px;
+  margin-top: -10px;
+}
+
+
+h1 {
+      font-size: 200px;
+      font-weight: normal;
+      margin: 100px 200;
+      font-family: 'Calibri', Georgia, serif;
+      text-align:center;
+      margin-top: 0;
+      color: white;
+      margin-bottom: 0;
+      padding-bottom: 30px;
+      text-shadow: 0 0 6px #000000;
+}
+
+.title {
+  padding-top: 200px;
+  margin-bottom: 0;
+}
+
+h2 {
+      font-size: 30px;
+      font-weight: normal;
+      margin: 100px 200;
+      font-family: 'Calibri', Georgia, serif;
+      text-align:center;
+      margin-top: 0;
+      color: white;
+      padding-left: 500px;
+      padding-right: 500px;
+      text-shadow: 0 0 6px #000000;
+}
+
+h3 {
+      font-size: 30px;
+      font-weight: normal;
+      margin: 100px 200;
+      font-family: 'Calibri', Georgia, serif;
+      text-align:center;
+      margin-top: 0;
+      color: white;
+}
+
+h4 {
+      font-size: 30px;
+      font-weight: normal;
+      margin: 100px 200;
+      font-family: 'Calibri', Georgia, serif;
+      text-align:left;
+      margin-top: 0;
+      color: white;
+}
+
+h4.form2 {
+  font-size: 30px;
+  font-weight: normal;
+  margin: 100px 200;
+  font-family: 'Calibri', Georgia, serif;
+  text-align:right;
+  margin-top: 0;
+  color: white;
+}
+
+code {
+  background-color: white;
+    font-style: normal;
+    border-radius: 15px;
+    color: black;
+    padding: 5px 15px;
+    font-family: 'Calibri', Georgia, serif;
+    font-size: 50px;
+    border: solid 2px black;
+}
+
+.bouton {
+  background-color: white;
+    font-style: normal;
+    border-radius: 15px;
+    color: black;
+    padding: 5px 15px;
+    font-family: 'Calibri', Georgia, serif;
+    font-size: 50px;
+    border: solid 2px black;
+}
+
+.formulaire {
+  background-color: white;
+    font-style: normal;
+    border-radius: 15px;
+    color: black;
+    padding: 5px 15px;
+    font-family: 'Calibri', Georgia, serif;
+    font-size: 20px;
+    border: solid 2px black;
+    margin-top: -40px;
+}
+
+.valider {
+  color: white;
+}
+
+.form {
+  margin-left: 100px;
+  padding-top: 50px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+
+input.formulaire {
+  margin-left: 90px;
+  margin-top: -10px;
+  margin-bottom: 0px;
+}
+
+
+.div1 {
+  padding-top: 80px;
+  overflow: hidden;
+  margin-left: 100px;
+  width: 500px;
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+.div2 {
+  overflow: hidden;
+  float: right;
+  width: 500px;
+  margin-right: 120px;
+  padding-right: 0px;
+  margin-top: -407px;
+  text-align: left;
+}
+
+.validerinscription {
+  margin-left: 500px;
+  margin-top: 70px;
+}
+
+.choixclasse {
+  margin-left: 90px;
+}
+
+.buttonco {
+  padding-top: 60px;
+  text-align: center;
+}
+
+a, a:hover, a:visited, a:active
+{
+  text-decoration:none;
+}
+
+
+.image2 {
+  width: 70%;
+  margin-left: 200px;
+}
+
+.formulaireinscription {
+  width: 1200px;
+  height: 700px;
+  background-image: url(image3.jpg);
+  padding-top: 0;
+  margin-top: -100px;
+  margin-left: 250px;
+  border-radius: 10%;
+  border: solid 4px white;
+}
+
+.formulaireconnection {
+  width: 800px;
+  height: 450px;
+  background-image: url(image3.jpg);
+  padding-top: 0;
+  margin-top: -100px;
+  margin-left: 250px;
+  border-radius: 10%;
+  border: solid 4px white;
+}
