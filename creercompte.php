@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="stylemd.css"/>
   <head>
     <meta charset="utf-8">
-    <title>Créer uefhbetrn compte</title>
+    <title>Créer un compte</title>
   </head>
   <?php
 	if(isset($_GET["valider"])){
