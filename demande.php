@@ -7,10 +7,14 @@
   </head>
   <body>
     <h1>Demander un nouveau produit?</h1>
-    <form>
-      <input id="Recherche" type="text" placeholder="Recherche"/>
+    <div id="NouveauProduit">
+
+
+    <form >
+      <input id="nouveau" type="text" placeholder="Nouveau Produit?"/>
     </form>
-    <h1>Proposer une augmentation de produit?</h1>
+      </div>
+    <h1>Demander plus d'un produit existant?</h1>
 
   </body>
 </html>
